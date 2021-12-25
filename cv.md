@@ -1,5 +1,5 @@
 # My name is Andrew Zyl
-![Photo](/Photo/my_photo2_220.jpg "my photo")
+![Photo](/photo/my_photo.jpg "my photo")
 ---
 ## Contacts:
 ## [Gmail](https://mailto:Psylocybe13@gmail.com) [GitHub](https://github.com/Andrew-Enot) [Discord](https://discord.com/users/Andrew-Zyl#1330)
