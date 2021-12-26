@@ -1,5 +1,5 @@
 # My name is Andrew Zyl
-![Photo](/photo/my_photo.jpg "my photo")
+![Photo](./photo/my_photo.jpg "my photo")
 
 ---
 ## Contacts:
