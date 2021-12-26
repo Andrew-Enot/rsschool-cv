@@ -1,5 +1,5 @@
 # My name is Andrew Zyl
-![Photo](./photo/my_photo.jpg "my photo")
+![Photo](https://github.com/Andrew-Enot/rsschool-cv/blob/gh-pages/photo/my_photo.jpg "my photo")
 
 ---
 ## Contacts:
