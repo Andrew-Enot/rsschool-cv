@@ -1,3 +1,34 @@
-<style>
+.block {
+ text-align: center;
+}
+ .block_row {
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: column;
+ height: auto;
+ }
+ .header {
+ }
+ .main {
+     flex: 1 1 auto;
+ }
 
-</style>
+ .photo img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin: 10px;
+ }
+
+ .code {
+
+ }
+
+ .project {
+     flex: 0 1 auto;
+ }
+ .footer {
+ }
+ .content {
+ background-color:rgb(87, 219, 175);
+ }
