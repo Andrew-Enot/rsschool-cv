@@ -1,3 +1,103 @@
+<<<<<<< HEAD
+.cv {
+     display: flex;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     flex-direction: column;
+     min-height: 100%;
+     margin: 20px;
+ }
+
+ .cv_row {
+     flex: 1 1 auto;
+ }
+
+ .header {
+     font-size: 20px;
+     background-color:deepskyblue;
+     padding: 50px 0;
+     box-shadow: 1px 50px 80px 5px black;
+ }
+
+ .info {
+	 max-width: 1000px;
+	 margin: 0px auto;
+ }
+
+ .info_row {
+     display: flex;
+	 justify-content: space-between;
+ }
+
+ .txt_body {
+     color:black;
+	 padding: 0px 20px 0px 0px;
+ }
+
+ .name {
+     padding: 10px;
+     margin: 0px 0px 40px 0px;
+	 text-shadow: 1px 1px 0 black;
+	 font-size: 30px;
+ }
+
+ .contacts {
+     background-color: wheat;
+     text-shadow: 1px 1px 0 black;
+	 margin: 0px 0px 15px 50px;
+	 padding: 10px 0px 10px 50px;
+	 font-size: 20px;
+     box-shadow: 1px 20px 80px 5px black;
+ }
+
+ .photo img {
+     width: 220px;
+     height: 220px;
+     border-radius: 50%;
+     margin: 20px;
+     box-shadow: 1px 20px 50px 5px black;
+ }
+
+ .content {
+     background-color:deepskyblue;
+     box-shadow: 1px 50px 80px 5px black;
+     flex: 1 1 auto;
+     padding: 20px;
+    }
+
+ .about {
+     font-size: 20px;
+ }
+
+ .skills {
+     box-shadow: 1px 20px 80px 5px black;
+     background-color: wheat;
+     margin: 0px 50px 15px 50px;
+	 padding: 10px 200px 10px 200px;
+     font-size: 20px;
+ }
+
+ .code {
+     box-shadow: 1px 20px 80px 5px black;
+     background-color: wheat;
+     margin: 0px 50px 15px 50px;
+	 padding: 10px 50px 10px 0px;
+     font-size: 20px;
+ }
+
+ .footer {
+     flex-shrink: 0;
+     padding: 20px 10px;
+ }
+ .github {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 20px;
+     background-color:deepskyblue;
+     font-size: 20px;
+     box-shadow: 1px 50px 80px 5px black;
+=======
 .block {
  text-align: center;
 }
@@ -31,4 +131,5 @@
  }
  .content {
  background-color:rgb(87, 219, 175);
+>>>>>>> gh-pages
  }
