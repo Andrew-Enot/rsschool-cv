@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cv {
      display: flex;
      text-align: center;
@@ -96,4 +97,39 @@
      background-color:deepskyblue;
      font-size: 20px;
      box-shadow: 1px 50px 80px 5px black;
+=======
+.block {
+ text-align: center;
+}
+ .block_row {
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: column;
+ height: auto;
+ }
+ .header {
+ }
+ .main {
+     flex: 1 1 auto;
+ }
+
+ .photo img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin: 10px;
+ }
+
+ .code {
+
+ }
+
+ .project {
+     flex: 0 1 auto;
+ }
+ .footer {
+ }
+ .content {
+ background-color:rgb(87, 219, 175);
+>>>>>>> gh-pages
  }
